@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ServerJavaChat:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServerJavaChat_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ServerJavaChat/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ServerJavaChat" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
